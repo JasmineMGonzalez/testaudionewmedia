@@ -1,0 +1,14 @@
+I"Õ<p>Replace this section of text with the full transcript of your audio guide stop. Use a second level heading to flag the person speaking</p>
+
+<h2 id="person-speaking">Person speaking</h2>
+
+<blockquote>
+  <p>And this blockquote is styled to make it clear that this section really is someone speaking.</p>
+</blockquote>
+
+<p>And we can go back to a normal transcript.</p>
+
+<h3 id="a-third-level-heading">A third level heading</h3>
+
+<p>The example audio used here is borrowed from <a href="http://www.nasa.gov/connect/sounds/index.html#Discovery">NASA</a> under the terms of their <a href="http://www.nasa.gov/multimedia/guidelines/index.html">usage guidelines</a>. This is just a test clip, so youâ€™ll need to replace it!</p>
+:ET
